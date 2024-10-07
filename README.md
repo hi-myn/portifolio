@@ -4,8 +4,6 @@ Este repositório contém o código-fonte do meu portfólio pessoal, desenvolvid
 
 ## Tecnologias Utilizadas
 - **HTML5** e **CSS3** para estruturação e estilização do site
-- **JavaScript** para funcionalidades e interatividade
-- **Node.js** e **Express** para o back-end (se aplicável)
 
 ## Estrutura do Projeto
 - `index.html`: Página inicial com informações sobre mim e minhas habilidades.
