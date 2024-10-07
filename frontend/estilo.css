@@ -381,8 +381,9 @@ section{
 .list li a{
     display: block;
     color: var(--second-text-color);
-    font-size: 14px;
+    font-size: 18px;
     transition: all .45s ease;
+    padding: 15px;
 }
 
 .list li a:hover{
